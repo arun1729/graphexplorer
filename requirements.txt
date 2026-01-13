@@ -1,0 +1,2 @@
+streamlit>=1.52.0
+cogdb>=3.4.4
